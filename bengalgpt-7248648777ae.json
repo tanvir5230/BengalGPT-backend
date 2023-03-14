@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bengalgpt",
+  "private_key_id": "7248648777aec37c0d0d190cdd5c20b00eb272f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCa4OWut1xWsLMS\nI/BUdM6/hNs5NepQwgBXYjsGphB3Ewst9/P/7kwku9JI2hCIkY8cOeirb3u0aPfp\nI07GKiXQMPWBI9mXOt4CqQ8v0177p5EpPn+166FNEP4DsbWioLqxgBC+BbuPGa4R\nNVFSs8oM1Q170tVPxHVBRFY7EB88aAj6n/t0dzfxnf7uORVHsbrNNhQQJg3t5dMl\nkt5UEWeNcBlwqjPgzmDN9qmgKxqlAkRQV3bqiw91oxlIRDg6WXI1CXtzG5brBTxH\nkmMYu+RbZmIpS/ugvTvkkHrNquGvfj1hE07/c7hWpc3nQkKLz2YoFdE0kHwvOYa6\n2TXWu1mhAgMBAAECggEAAVuB0tk7QkyhHKpPSSe3D05aYyjy+FVLdkibd6VrZvZG\nHIeAGlLd9KtXYnVkFETZlSnYJV7EPeSGwfqx5kZsu3tu3uxr7AWPaCS///tnYW92\nhBbuzM77bGjm/4x6aPoFeeBbYTV812I2VIL4Bwhxr6ErSZ3TahwYyp8vHexYOD3m\nErA2NYK3qKvE38efcjEBeNhnS9FLzap4lFYYSmhf3PzUPt1Vj51F8C9tUDIs9BCh\nLQnLzjJTXEl1C7NIdJz/251lNxHbjeiucv63pwdxmU54hBkEJXFswD7b+ImhOW4M\nh1H2neXiJmXgAIpbZyvrraW6xF7/GEIpdOcrNj55wQKBgQDL3URZ/Io7OkNdPUly\nEgFIhn0vgodfIJSjscEmez5YbAj/nP13TFgxP8hlwvIRNO++8xu3Ddf8C7rc5jy6\npOoHVvbNptyy/f8plZMLuuv9KUka0vcpzguiH5TLKwsJzwtXeanEfnhm7n59jdAT\nQY43mxK3L9sjadG+4HF2+klOQQKBgQDCfJeUDgM5LuIqyO8z34OOGZjdxP73BMsJ\n2cYaD+AnzTy2mumsp+wrXinPGPZlru5+qPEAQHkOfSqecgK90kpQUAolxTGeLxLr\n8LGvlZciNMV2NtrcHp9MD+Q0msQpIXAPuwsHnrd4VX5c74j3oyJtZyD46OrJn3M+\nnHhEmm3zYQKBgE7WQpiKEOrWnTZxfPWgAN8LI148HB2te83R79/xySponRI8o8h+\nvZxODjFMMlB1KEGvwggIUn4mCx1h7BpBrD8qYkclQDP4BbUPIs5metxsGtlEvFBu\nXhFUJTZsbthcOQabBgv23Jjxofjr3ouTzmuyjIpK93O6eGJYaYiZQcABAoGARTyb\nrb6LUTkqlPaxiXMB332nWRP/fKr9KUWY68BJGYJMIenmVGv3fLzp/2swlKSBDSBR\no7hQIGNY381QwojxocPMyQN5lYnGn64xY4PKqQfGYD5JDeHs7eQeZsfOG6JmxYLd\n+1l6kWFGOgmgZiByaiYzq8knhJ26JkkH28xqZiECgYBtp/DdA2XoPDa5KGBbaSts\nZ3MZYJHgqJGaBoEsTM4iFWoh74Hxp9hzcmOYHFHaf3y5lHrP8Sv3TwP+fvRQtQwn\nGyLSYGFZ5Uk8PJrytvX/O/EqCVzrOEdpZTxprDi1Tk7qSf5QtSnpabPeyRa3NRJ9\nB0jC2anqJ1Us45TQcB8w7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bengalgpt@bengalgpt.iam.gserviceaccount.com",
+  "client_id": "117343095454345419195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bengalgpt%40bengalgpt.iam.gserviceaccount.com"
+}
